@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/6210773a93ac429" target="blank"><img src="https://img.shields.io/twitter/follow/6210773a93ac429?logo=twitter&style=for-the-badge" alt="6210773a93ac429" /></a> </p>
 
-- 🔭 I’m currently working on Hongkong largest job portal [Helperplace](https://www.helperplace.com)
-
 - 🌱 I’m currently learning **React and React Native**
 
 - 👯 My Area's of interest are **Blockchain Technology, Web Developing**
