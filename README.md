@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate product developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsingh478&label=Profile%20views&color=0e75b6&style=flat" alt="shivams1007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivams1007&label=Profile%20views&color=0e75b6&style=flat" alt="shivams1007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivams1007" alt="shivams1007" /></a> </p>
 
@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13964645/shivam-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13964645/shivam-singh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shivams1007" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivams1007_/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shivams1007_/?next=%2f" height="30" width="40" /></a>
-<a href="https://medium.com/@shivamblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamblog" height="30" width="40" /></a>
+<a href="https://medium.com/@shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivams1007" height="30" width="40" /></a>
 </p>
 
 ## My favorite tools and technologies ⚙️ 
@@ -196,8 +196,8 @@
 </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamsingh478&show_icons=true&locale=en&layout=compact" alt="shivamsingh478" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivams1007&show_icons=true&locale=en&layout=compact" alt="shivams1007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsingh478&show_icons=true&locale=en" alt="shivamsingh478" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivams1007&show_icons=true&locale=en" alt="shivams1007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsingh478&" alt="shivamsingh478" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams1007&" alt="shivams1007" /></p>
