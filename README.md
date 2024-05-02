@@ -1,31 +1,30 @@
+
+# Hi there! 👋
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">A passionate product developer from India</h3>
+<h3 align="center">I'm Shivam Singh, a passionate software developer with expertise in various technologies. Here's a bit about me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivams1007&label=Profile%20views&color=0e75b6&style=flat" alt="shivams1007" /> </p>
+🚀 Full-stack Developer: Proficient in building robust web and desktop applications using Angular, React, Node.js, Electron, Next.js, and Ionic.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivams1007" alt="shivams1007" /></a> </p>
+-  Tech Stack: Angular | React | Node.js | Electron | Next.js | Ionic
 
-<p align="left"> <a href="https://twitter.com/shivams1007" target="blank"><img src="https://img.shields.io/twitter/follow/shivams1007?logo=twitter&style=for-the-badge" alt="shivams1007" /></a> </p>
+- 🌱 Always Learning: I love exploring new technologies and continuously enhancing my skills to stay updated with the latest trends in the industry.
 
-- 🌱 I’m currently learning **React and React Native**
+- 👨‍💻 Open Source Contributor: Actively contribute to open-source projects and believe in the power of collaboration and community-driven development.
 
-- 👯 My Area's of interest are **Blockchain Technology, Web Developing**
+- 📚 Knowledge Sharing: Passionate about sharing knowledge and experiences through blogs, tutorials, and speaking engagements to help others learn and grow.
 
-- 👨‍💻 All of my projects are available at [https://shivam-s.vercel.app/](https://shivams.vercel.app/)
+- 🔧 Problem Solver: Enjoy tackling complex problems and finding innovative solutions to deliver high-quality software products.
+
+- 🎯 Goal-oriented: Committed to delivering results and exceeding expectations by setting clear goals and relentlessly pursuing them.
+
+- 👨‍💻 All of my projects are available at [https://shivams.vercel.app/](https://shivams.vercel.app/)
 
 - 📝 I regularly write articles on [https://dev.to/shivams1007](https://dev.to/shivams1007)
 
 - 📝 Want to know more about me visit [https://instagram.com/shivams1007_](https://instagram.com/shivams1007_)
 
-- 💬 Ask me about **Angular and Nodejs**
 
-- 📫 How to reach me **sshivam478@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://dev.to/https://dev.to/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shivamblog" height="30" width="40" /></a>
 <a href="https://twitter.com/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6210773a93ac429" height="30" width="40" /></a>
@@ -36,7 +35,19 @@
 <a href="https://medium.com/@shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivams1007" height="30" width="40" /></a>
 </p>
 
-## My favorite tools and technologies ⚙️ 
+
+Feel free to reach out for collaboration opportunities, tech discussions, or just to say hello! 😊
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivams1007&label=Profile%20views&color=0e75b6&style=flat" alt="shivams1007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivams1007" alt="shivams1007" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shivams1007" target="blank"><img src="https://img.shields.io/twitter/follow/shivams1007?logo=twitter&style=for-the-badge" alt="shivams1007" /></a> </p>
+
+
+# 💻 Tech Stack: 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -195,9 +206,15 @@
   </tr>
 </table>
 
-
+# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivams1007&show_icons=true&locale=en&layout=compact" alt="shivams1007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivams1007&show_icons=true&locale=en" alt="shivams1007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams1007&" alt="shivams1007" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
