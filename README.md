@@ -1,5 +1,4 @@
 
-# Hi there! 👋
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">I'm Shivam Singh, a passionate software developer with expertise in various technologies. Here's a bit about me:</h3>
 
@@ -26,7 +25,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://dev.to/https://dev.to/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shivamblog" height="30" width="40" /></a>
+<a href="https://dev.to/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shivamblog" height="30" width="40" /></a>
 <a href="https://twitter.com/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6210773a93ac429" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivams1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivams1007" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13964645/shivam-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13964645/shivam-singh" height="30" width="40" /></a>
